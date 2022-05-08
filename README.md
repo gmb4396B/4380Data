@@ -27,6 +27,9 @@ Using Pandas loc function I was able to pinpoint particular hours of the day or 
 Then used to_numpy() function turn array format
 
 Data Visualization:
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/105134530/167278553-82a83368-f404-4e36-93ff-773f9c85eceb.png">
+
+
 ![image](https://user-images.githubusercontent.com/105134530/167278463-cd9634ce-d687-4b69-addb-e5a04906d139.jpeg)
 
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/105134530/167278479-caeddf4f-1adb-4891-baa6-ef79ccab1a83.png">
